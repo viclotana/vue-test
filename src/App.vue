@@ -1,5 +1,5 @@
 <template>
-  <div>Hello world {{ value }}</div>
+  <div>Hello world</div>
 </template>
 
 <script>
@@ -7,7 +7,6 @@ export default {
   name: "App",
   data() {
     return {
-      value: "World"
     };
   }
 };
